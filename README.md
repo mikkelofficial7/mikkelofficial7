@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Mikkel
+## 👋 Hello, Mikkel is here
 
 Meticulous Mobile engineer 📱 with 6 years experience knack on Kotlin, Java, Flutter, and React Native and also doing some fun with PHP web and Springboot Java 💻
 
