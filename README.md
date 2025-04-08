@@ -5,7 +5,7 @@ Passionate about coffee, where every taste matters—much like a well-optimized 
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikkelofficial7&show_icons=true&theme=gruvbox" align="center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikkelofficial7&theme=gruvbox&show_icons=true&locale=en&layout=compact" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelofficial7&theme=gruvbox&hide_border=false&hide=swift,objective-c,c,cmake,c++,makefile&langs_count=6&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact" align="center"/>
 </p>
 
 ## 🌐 Skills:
