@@ -17,6 +17,6 @@ Passionate about coffee, where every taste matters—much like a well-optimized 
 [![My Skills](https://img.shields.io/badge/web-springboot-8A2BE2)](https://mikkelofficial7.github.io/)
 
 ## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-septiano-a66ba7134/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-septiano/)
 [![](https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://mikkelofficial7.medium.com/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://mikkelofficial7.github.io/)
