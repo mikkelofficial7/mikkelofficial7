@@ -20,3 +20,6 @@ Passionate about coffee, where every taste matters much like a well-architected 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-septiano/)
 [![](https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://mikkelofficial7.medium.com/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://mikkelofficial7.github.io/)
+[![Jetbrains](https://img.shields.io/badge/-Jetbrains-0A0A0A?style=for-the-badge&logo=jetbrains&logoColor=E627F8)](https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch/versions?noRedirect=true)
+
+
