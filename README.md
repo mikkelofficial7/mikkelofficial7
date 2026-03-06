@@ -3,6 +3,8 @@
 Meticulous Fullstack mobile engineer 📱 with 7 years experience.
 Passionate about coffee, where every taste matters much like a well-architected system before fire nation invades ☕ 🔥
 
+[![CodersRank](https://img.shields.io/badge/CodersRank-View%20Profile-blue?logo=code)](https://profile.codersrank.io/user/mikkelofficial7)
+
 ## 🌐 Techstacks:
 <p align="left">
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png" width="40">
