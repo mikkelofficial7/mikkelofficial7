@@ -5,6 +5,18 @@ Passionate about coffee, where every taste matters much like a well-architected 
 
 [![CodersRank](https://img.shields.io/badge/CodersRank-View%20Profile-blue?logo=code)](https://profile.codersrank.io/user/mikkelofficial7)
 
+## 🏛️ Try my libs:
+[![Jitpack](https://img.shields.io/badge/-Jetpack%20Compose%20Base64%20Passworded%20Native%20PDF-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/jetpack-compose-native-pdf)
+<br/>
+[![Jitpack](https://img.shields.io/badge/-Android%20PDF%20Reader%20with%20paper%20flipping%20motion%20style-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/android-pdf-flipping-page)
+<br/>
+[![Jitpack](https://img.shields.io/badge/-Android%20Image%20View%20with%20Zoomable-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/android-zoom-imageview)
+<br/>
+[![Jitpack](https://img.shields.io/badge/-Jetpack%20Compose%20Edit%20Text%20with%20built%20in%20keyboard-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/android-compose-edittext-keyboard)
+<br/>
+[![Jitpack](https://img.shields.io/badge/-Android%20Endless%20Scroll%20behaviour-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/android-endless-scroll)
+
+
 ## 🌐 Techstacks:
 <p align="left">
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png" width="40">
@@ -23,5 +35,6 @@ Passionate about coffee, where every taste matters much like a well-architected 
 [![](https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://mikkelofficial7.medium.com/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://mikkelofficial7.github.io/)
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-0A0A0A?style=for-the-badge&logo=jetbrains&logoColor=E627F8)](https://plugins.jetbrains.com/vendor/mikkel-septiano)
+
 
 
