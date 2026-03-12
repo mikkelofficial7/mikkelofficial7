@@ -1,11 +1,15 @@
-## Hello, Mikkel is here 👋
+## Bonjour, Mikkel is here
 
 Meticulous Fullstack mobile engineer 📱 with 7 years experience.
 Passionate about coffee, where every taste matters much like a well-architected system before fire nation invades ☕ 🔥
 
 [![CodersRank](https://img.shields.io/badge/CodersRank-View%20Profile-blue?logo=code)](https://profile.codersrank.io/user/mikkelofficial7)
 
-## 🏛️ Try my libs:
+## ⚙️ Try my plugins:
+[![Jetbrains](https://img.shields.io/badge/-Clean%20Architecture%20Kotlin%20Android-0A0A0A?style=for-the-badge&logo=jetbrains&logoColor=E627F8)](https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch/versions?noRedirect=true)
+<br/>
+
+## 🏛️ Try my libraries:
 [![Jitpack](https://img.shields.io/badge/-Jetpack%20Compose%20Base64%20Passworded%20Native%20PDF-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/jetpack-compose-native-pdf)
 <br/>
 [![Jitpack](https://img.shields.io/badge/-Android%20PDF%20Reader%20with%20paper%20flipping%20motion%20style-0A0A0A?style=for-the-badge&logo=jitpack&logoColor=FFFFFF)](https://github.com/mikkelofficial7/android-pdf-flipping-page)
